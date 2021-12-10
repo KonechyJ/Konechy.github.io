@@ -1,2 +1,2 @@
-# Konechy.github.io
+# KonechyJ.github.io
 My Portfolio Website
